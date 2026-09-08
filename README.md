@@ -244,3 +244,6 @@ This repository serves as the official landing page for Ashampoo Photo Optimizer
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of Ashampoo Photo Optimizer today!**
+
+---
+**Last updated:** 2026-09-08 05:35:24 UTC
