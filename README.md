@@ -1,0 +1,1 @@
+# Ashampoo-Photo-Optimizer-Full-Version
