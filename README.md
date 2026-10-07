@@ -246,4 +246,4 @@ This repository serves as the official landing page for Ashampoo Photo Optimizer
 **Get the most recent version of Ashampoo Photo Optimizer today!**
 
 ---
-**Last updated:** 2026-10-06 22:19:39 UTC
+**Last updated:** 2026-10-07 02:04:28 UTC
